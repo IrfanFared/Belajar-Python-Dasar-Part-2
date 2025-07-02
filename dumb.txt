@@ -1,0 +1,1 @@
+ini adalah contoh untuk pengunaan read ekternal untuk pyton
